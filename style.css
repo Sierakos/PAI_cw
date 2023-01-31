@@ -36,6 +36,14 @@ body {
   main {
     padding: 20px;
   }
+
+  .flex-container {
+    display: flex;
+  }
+  .flex-article {
+    width: 50%;
+    padding: 2rem;
+  }
   
   footer {
     background-color: lightgray;
